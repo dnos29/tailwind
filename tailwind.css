@@ -1,0 +1,6 @@
+.box {
+  color: dodgerblue;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
